@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "nome": "A",
+    "listadeIngredientes": "20",
+    "calorias": "12",
+    "tempo_preparo": "30"
+  }
+]
